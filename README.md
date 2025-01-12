@@ -30,6 +30,7 @@ Matplotlib
 Seaborn
 Scikit Learn
 Jupyter Notebook
+Machine Learning
 ```
 ### Package Installation
 ```
